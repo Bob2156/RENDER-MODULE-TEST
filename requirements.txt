@@ -1,0 +1,6 @@
+Flask
+PyNaCl
+requests
+yfinance
+beautifulsoup4
+discord.py
